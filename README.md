@@ -10,7 +10,7 @@ Sou estudante de **Bacharelado em Ciência da Computação (BCC)** e atualmente 
 <br>
 ## Tecnologias e ferramentas
 
-### Linguagens favoritas
+### Minhas linguagens favoritas
 
 <p><img src="https://skillicons.dev/icons?i=mysql,c,html,css,js&theme=dark" alt="MySQL, C, HTML, CSS, JavaScript" /></p>
 
@@ -40,7 +40,7 @@ Sou estudante de **Bacharelado em Ciência da Computação (BCC)** e atualmente 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-trevisaq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trevisaq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trevisaq/)
 [![Instagram](https://img.shields.io/badge/Instagram-Meu%20Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trevisaq/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euguilhermetrevisan@gmail.com)
 
